@@ -1,3 +1,5 @@
+package myPackage; // Add your package declaration here
+
 class Node<T> {
     T data;
     Node<T> next;
